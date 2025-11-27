@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450042224208",
+    "project_id": "manovecina-564b4",
+    "storage_bucket": "manovecina-564b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450042224208:android:c4f5d9177b07f1b2cc7b55",
+        "android_client_info": {
+          "package_name": "com.example.manovecina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGfr_ek_e7kG-EPw43jasxhT1LiIk1E4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
